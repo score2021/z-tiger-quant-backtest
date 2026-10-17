@@ -1,0 +1,4 @@
+interface:
+  display_name: "z-tiger-quant-backtest 老虎量化回测"
+  short_description: "为老虎量化编写与迁移回测代码，用最小样例和真实日志逐步验证平台兼容性"
+  default_prompt: "使用 $z-tiger-quant-backtest，为老虎量化编写回测代码，并说明已验证范围与线上验收步骤。"
