@@ -1,5 +1,12 @@
 # z-tiger-quant-backtest
 
+## ✨ 功能概览
+
+- 编写和迁移老虎量化原生 Python 回测代码。
+- 检查行情窗口、日期、订单状态、现金约束和执行口径。
+- 区分离线检查、平台编译与完整回测，避免将示例成功当作策略验证。
+> 功能概览由 [Lobe Readme Wizard](https://github.com/lobehub/lobe-readme-wizard) 的 Markdown 生成器生成，内容依据本仓库资料整理。
+
 为老虎量化编写、迁移、修复和验证 Python 回测代码。入口：[SKILL.md](SKILL.md)。
 
 ## 可防范的已知问题
